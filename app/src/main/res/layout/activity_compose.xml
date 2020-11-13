@@ -11,12 +11,11 @@
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         app:counterEnabled="true"
         app:counterMaxLength="140"
-        app:counterTextAppearance="@style/counterText"
         app:counterOverflowTextAppearance="@style/counterOverride"
-        xmlns:app="http://schemas.android.com/apk/res-auto">
+        app:counterTextAppearance="@style/counterText">
 
 
         <EditText
