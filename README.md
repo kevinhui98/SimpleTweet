@@ -98,7 +98,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='composeTweet.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ComposeTweet.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
